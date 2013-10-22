@@ -1,6 +1,6 @@
-hamlet.txt othello.txt macbeth.txt juliuscaesar.txt kinglear.txt shakespeare-compare.py:
+hamlet.txt:
 
-LOCAL /bin/echo Hello World > hamlet.txt othello.txt macbeth.txt juliuscaesar.txt kinglear.txt
+LOCAL /bin/echo Hello World > hamlet.txt 
 
 A: shakespeare-compare.py hamlet.txt
 
