@@ -1,0 +1,21 @@
+hamlet.txt othello.txt macbeth.txt juliuscaesar.txt kinglear.txt shakespeare-compare.py:
+
+A: shakespeare-compare.py hamlet.txt
+
+    python shakespeare-compare.py hamlet.txt>A
+
+B: shakespeare-compare.py othello.txt
+
+    python shakespeare-compare.py othello.txt>B
+
+C: shakespeare-compare.py macbeth.txt
+
+    python shakespeare-compare.py macbeth.txt>C
+
+D: shakespeare-compare.py juliuscaesar.txt
+
+    python shakespeare-compare.py juliuscaesar.txt>D
+
+E: shakespeare-compare.py kinglear.txt
+
+    python shakespeare-compare.py kinglear.txt>E
