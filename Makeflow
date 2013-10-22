@@ -1,6 +1,4 @@
-hamlet.txt:
-
-LOCAL /bin/echo Hello World > hamlet.txt 
+hamlet.txt othello.txt macbeth.txt juliuscaesar.txt kinglear.txt shakespeare-compare.py:
 
 A: shakespeare-compare.py hamlet.txt
 
